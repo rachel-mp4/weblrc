@@ -1,0 +1,3 @@
+module weblrc
+
+go 1.22.1
