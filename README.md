@@ -1,1 +1,1 @@
-for now, see https://moth11.net/blog/lrc/
+deprecated, use lrcd with websocket port instead
